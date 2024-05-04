@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)](https://mehakkamran.liveblog365.com/) 
 # 💫 About Me:  <img align="right" alt="Coding" width="300" src="https://github.com/Mehak-Kamran/Mehak-Kamran/blob/main/image.png">
 
-const name = "Mehak Kamran";<br>const intro = `Hey there! I'm ${name}, a code enthusiast ready to conquer the digital realm.`;<br>const skills = ["Python", "JavaScript", "Nodejs", "Express", "React"];<br>const interests = ["Web Development", "Data Analysis", "Machine Learning", "Flutter"];<br><br>console.log(intro);<br>console.log("My skills:", skills);<br>console.log("My interests:", interests);<br>
+const name = "Mehak Kamran";<br>let intro = `Hey there! I'm ${name}, a code enthusiast ready to conquer the digital realm.`;<br>letskills = ["Python", "JavaScript", "Nodejs", "Express", "React"];<br>let interests = ["Web Development", "Data Analysis", "Machine Learning", "Flutter"];<br><br>console.log(intro);<br>console.log("My skills:", skills);<br>console.log("My interests:", interests);<br>
 
 
 
