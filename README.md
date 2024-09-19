@@ -4,7 +4,6 @@
 const name = "Mehak Kamran";<br>let intro = `Hey there! I'm ${name}, a code enthusiast ready to conquer the digital realm.`;<br>let skills = ["Python", "JavaScript", "Nodejs", "Express", "React"];<br>let interests = ["Web Development", "Data Analysis", "Machine Learning", "Mobile Application Development"];<br><br>console.log(intro);<br>console.log("My skills:", skills);<br>console.log("My interests:", interests);<br>
 
 
-[![](https://visitcount.itsvg.in/api?id=Mehak-Kamran&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
